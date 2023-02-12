@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(../images/backround3.jpg);
+    /* height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-color: black; */
+}
+
+.nazar-rudenok {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0.75rem;
+    animation: blink 2.5s infinite;
+    opacity: 0.5;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0.5;
+        text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+    }
+    20% {
+        opacity: 1;
+        text-shadow: 5px 5px 10px var(--cyan);
+    }
+    40% {
+        opacity: 0.7;
+        text-shadow: 0 0 0 rgba(0, 0, 0, 1);
+    }
+}
+
+.first-text {
+    color: white;
+    font-size: 22px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.projects {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #ce1357;
+    /* font-family: 'Fira Sans Condensed', sans-serif; */
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.projects-hr {
+    height: 1px;
+    background-color: #ce1357;
+    border: none;
+}
+
+.links {
+    color: #ce1357;
+}
+
+.losses-of-russia-photo {
+    margin-left: 200px;
+    width: 65px;
+    float: left;
+}
+
+.losses-of-russia-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.weather-forecast-photo {
+    margin-left: 200px;
+    /* margin-top: 19px; */
+    width: 65px;
+    float: left;
+}
+
+.weather-forecast-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.light-bot-photo {
+    margin-left: 200px;
+    /* margin-top: 19px; */
+    width: 65px;
+    float: left;
+}
+
+.light-bot-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.meme-bot-photo {
+    margin-left: 200px;
+    /* margin-top: 19px; */
+    width: 65px;
+    float: left;
+}
+
+.meme-bot-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;  
+}
+
+.modules-hr {
+    height: 1px;
+    background-color: #DF0700;
+    border: none;
+}
+
+.modules {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #DF0700;
+    /* font-family: 'Fira Sans Condensed', sans-serif; */
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.losses-of-russia-module-text {
+    font-size: 20px;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif; 
+}
+
+.losses-of-russia-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.clrtxt {
+    color: #DF0700;
+}
+
+.weather-forecast-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.light-in-lviv-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.memes-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.links-2 {
+    color: #DF0700;
+}
+
+.contacts-title {
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #b6e354;
+    /* font-family: 'Fira Sans Condensed', sans-serif; */
+    text-transform: uppercase;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.contacts-hr {
+    height: 1px;
+    background-color: #b6e354;
+    border: none;
+}
+
+.telegram-icon {
+    width: 65px;
+    margin-left: 200px;
+    float: left;
+}
+
+.phone-icon {
+    width: 65px;
+    margin-left: 200px;
+    float: left;
+}
+
+.gmail-icon {
+    width: 65px;
+    margin-left: 200px;
+    float: left;
+}
+
+.telegram-text {
+    /* color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    padding: 22px; */
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.phone-number {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contacts-links {
+    color: #b6e354;
+}
