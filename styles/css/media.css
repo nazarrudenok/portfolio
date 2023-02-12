@@ -120,6 +120,6 @@
     }
 
     body {
-        background-size: 1;
+        background: url(../images/backround4.jpg);
     }
 }   
