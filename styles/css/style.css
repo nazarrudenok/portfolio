@@ -17,7 +17,7 @@ body {
     align-items: center;
     justify-content: center;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 70px;
     font-family: 'Poppins', sans-serif;
     letter-spacing: 0.75rem;
     animation: blink 2.5s infinite;
@@ -148,7 +148,7 @@ body {
 }
 
 .losses-of-russia-module-text {
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     margin-left: 200px;
     margin-right: 200px;
