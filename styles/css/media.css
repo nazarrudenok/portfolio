@@ -123,4 +123,14 @@
     body {
         background: url(../images/backround4.jpg);
     }
+
+    .russias-losses-img {
+        width: 50px;
+        margin-left: 20px;
+    }
+
+    .russias-losses-title {
+        margin-left: 90px;
+        margin-right: 20px;
+    }
 }   

@@ -260,3 +260,19 @@ body {
 .contacts-links {
     color: #b6e354;
 }
+
+.russias-losses-img {
+    margin-left: 200px;
+    /* margin-top: 19px; */
+    width: 65px;
+    float: left;
+}
+
+.russias-losses-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
