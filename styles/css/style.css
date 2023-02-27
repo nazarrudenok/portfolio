@@ -276,3 +276,37 @@ body {
     margin-bottom: 5px;
     font-family: 'Fira Sans Condensed', sans-serif;
 }
+
+.russias-losses-bot-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.alarm-bot-img {
+    margin-left: 200px;
+    /* margin-top: 19px; */
+    width: 65px;
+    float: left;
+}
+
+.alarm-bot-title {
+    font-size: 19px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.alarm-bot-text {
+    font-size: 17px;
+    color: white;
+    margin-left: 285px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
