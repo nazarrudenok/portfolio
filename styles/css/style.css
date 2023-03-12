@@ -72,6 +72,7 @@ body {
     margin-left: 200px;
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .losses-of-russia-text {
@@ -88,6 +89,7 @@ body {
     /* margin-top: 19px; */
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .weather-forecast-text {
@@ -105,6 +107,7 @@ body {
     /* margin-top: 19px; */
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .light-bot-text {
@@ -121,6 +124,7 @@ body {
     /* margin-top: 19px; */
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .meme-bot-text {
@@ -266,6 +270,7 @@ body {
     /* margin-top: 19px; */
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .russias-losses-title {
@@ -291,6 +296,7 @@ body {
     /* margin-top: 19px; */
     width: 65px;
     float: left;
+    border-radius: 5px;
 }
 
 .alarm-bot-title {
